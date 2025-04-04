@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/moises-gresve-galleguillos-943111253/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:moises.gresve@usach.cl" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
     <a href="https://www.researchgate.net/profile/Moises-Gresve" target="_blank">
       <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
     </a>
